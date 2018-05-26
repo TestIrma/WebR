@@ -109,17 +109,18 @@ figure{
 	height: auto;
 	margin: 5px;
 }
-/*#scrollUp {
+#scrollUp {
   bottom: 20px;
   right: 20px;
   padding: 10px 20px;
   background: #555;
   color: #fff;
-}*/
+}
+/*
 #scrollUp {
   bottom: 20px;
   right: 20px;
   width: 48px;
   height: 48px;
-  background-image: url(../img/arriba.png);
+  background-image: url(../img/arriba.png);*/
 }
